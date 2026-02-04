@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|d:\\projects\\iti-tasks\\18-visual c# .net\\lab-01\\q3-countoccurrence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|solutionrelative:q3-countoccurrence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|d:\\projects\\iti-tasks\\18-visual c# .net\\lab-01\\q2-statementreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|solutionrelative:q2-statementreverse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|d:\\projects\\iti-tasks\\18-visual c# .net\\lab-01\\q1-maxdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|solutionrelative:q1-maxdistance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|d:\\projects\\iti-tasks\\18-visual c# .net\\lab-01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5242CDCB-B29C-1855-68AD-C583D6957745}|Lab-01.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Q3-CountOccurrence.cs",
+              "DocumentMoniker": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Q3-CountOccurrence.cs",
+              "RelativeDocumentMoniker": "Q3-CountOccurrence.cs",
+              "ToolTip": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Q3-CountOccurrence.cs",
+              "RelativeToolTip": "Q3-CountOccurrence.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:53:35.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Q2-StatementReverse.cs",
+              "DocumentMoniker": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Q2-StatementReverse.cs",
+              "RelativeDocumentMoniker": "Q2-StatementReverse.cs",
+              "ToolTip": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Q2-StatementReverse.cs",
+              "RelativeToolTip": "Q2-StatementReverse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:53:22.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Q1-MaxDistance.cs",
+              "DocumentMoniker": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Q1-MaxDistance.cs",
+              "RelativeDocumentMoniker": "Q1-MaxDistance.cs",
+              "ToolTip": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Q1-MaxDistance.cs",
+              "RelativeToolTip": "Q1-MaxDistance.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T11:51:58.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\ITI-Tasks\\18-Visual C# .NET\\Lab-01\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T12:53:33.074Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

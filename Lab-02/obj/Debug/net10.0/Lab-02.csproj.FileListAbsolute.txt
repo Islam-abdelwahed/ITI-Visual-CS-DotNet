@@ -1,0 +1,16 @@
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\bin\Debug\net10.0\Lab-02.exe
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\bin\Debug\net10.0\Lab-02.deps.json
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\bin\Debug\net10.0\Lab-02.runtimeconfig.json
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\bin\Debug\net10.0\Lab-02.dll
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\bin\Debug\net10.0\Lab-02.pdb
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\bin\Debug\net10.0\Lab-02.xml
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.AssemblyInfoInputs.cache
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.AssemblyInfo.cs
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.csproj.CoreCompileInputs.cache
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.dll
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\refint\Lab-02.dll
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.xml
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.pdb
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\Lab-02.genruntimeconfig.cache
+D:\Projects\ITI-Tasks\18-Visual C# .NET\Lab-02\obj\Debug\net10.0\ref\Lab-02.dll
