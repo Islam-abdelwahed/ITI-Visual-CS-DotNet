@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../GameProject/GameProject.csproj" />
+  <Project Path="../StudentProject/StudentProject.csproj" />
+  <Project Path="EmployeeProject.csproj" />
+</Solution>
